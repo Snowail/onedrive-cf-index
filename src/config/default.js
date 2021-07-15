@@ -11,14 +11,14 @@ const config = {
    * !Note: we do not support deploying onedrive & sharepoint at the same time
    */
   type: {
-    accountType: 0,
+    accountType: 1,
     driveType: 0,
     hostName: null,
     sitePath: null
   },
 
   refresh_token: REFRESH_TOKEN,
-  client_id: '6600e358-9328-4050-af82-0af9cdde796b',
+  client_id: '7f83497d-b514-45f4-bffc-68c2664fdb7c',
   client_secret: CLIENT_SECRET,
 
   /**
