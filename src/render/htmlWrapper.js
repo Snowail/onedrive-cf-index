@@ -34,7 +34,6 @@ export function renderHTML(body, pLink, pIdx) {
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
       <title>Aspirin Archives</title>
       <link rel="shortcut icon" type="image/png" sizes="16x16" href="${favicon}" />
-      <link rel="apple-touch-icon" href="https://quickdrop.oss-cn-shanghai.aliyuncs.com/favicon/favicon.ico"/>
       <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.1/css/all.min.css" rel="stylesheet">
       <link href="https://cdn.jsdelivr.net/gh/spencerwooo/onedrive-cf-index@${COMMIT_HASH}/themes/spencer.css" rel="stylesheet">
       <link href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@gh-pages/github-markdown.css" rel="stylesheet">
