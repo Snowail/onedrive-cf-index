@@ -52,7 +52,7 @@ export async function renderFolderView(items, path, request) {
   const intro = `<div class="intro markdown-body" style="text-align: left; margin-top: 2rem;">
                     <h2>HELLO, WORLD!</h2>
                     <p>This is public resources directory of Aspirin Academy. Feel free to download any files that you find useful. ⚠️DO NOT SPREAD THIS WEBSITE！</p>
-                    <p><a href="https://aspirinedu.com">Aspirin Academy</a> · <a href="https://snowail.me">YOURLS</a> · <a href="https://unlock.snowail.me">UnlockMusic</a></p>
+                    <p><a href="https://aspirinedu.com">Aspirin Academy</a> · <a href="https://snowail.me">YOURLS</a> · <a href="https://p.snowail.me">OnlineProxy</a></p>
                   </div>`
 
   // Check if current directory contains README.md, if true, then render spinner
