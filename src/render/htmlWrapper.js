@@ -33,7 +33,13 @@ export function renderHTML(body, pLink, pIdx) {
       <meta http-equiv="x-ua-compatible" content="ie=edge, chrome=1" />
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
       <title>Aspirin Archives</title>
-      <link rel="shortcut icon" type="image/png" sizes="16x16" href="${favicon}" />
+      <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png?raw">
+      <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png?raw">
+      <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png?raw">
+      <link rel="manifest" href="/favicon/site.webmanifest?raw">
+      <link rel="mask-icon" href="/favicon/safari-pinned-tab.svg?raw" color="#112639">
+      <meta name="msapplication-TileColor" content="#112639">
+      <meta name="theme-color" content="#112639">
       <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.1/css/all.min.css" rel="stylesheet">
       <link href="https://cdn.jsdelivr.net/gh/spencerwooo/onedrive-cf-index@${COMMIT_HASH}/themes/spencer.css" rel="stylesheet">
       <link href="https://cdn.jsdelivr.net/gh/sindresorhus/github-markdown-css@gh-pages/github-markdown.css" rel="stylesheet">
